@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/conventer/static/css/main.964fdded.css",
+    "main.js": "/conventer/static/js/main.aad1a1a0.js",
+    "static/js/453.ed3810f9.chunk.js": "/conventer/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/conventer/index.html",
+    "main.964fdded.css.map": "/conventer/static/css/main.964fdded.css.map",
+    "main.aad1a1a0.js.map": "/conventer/static/js/main.aad1a1a0.js.map",
+    "453.ed3810f9.chunk.js.map": "/conventer/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.aad1a1a0.js"
+  ]
+}
